@@ -6,5 +6,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>01-check-factor-sum</module>
+  	<module>02-euclids-algorithm</module>
+  	<module>03-eratosthenes-sieve</module>
   </modules>
 </project>

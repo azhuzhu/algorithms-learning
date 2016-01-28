@@ -1,0 +1,12 @@
+*~
+.classpath
+.project
+.factorypath
+target
+test-output
+.settings
+.DS_Store
+.faces-config.xml.jsfdia
+MANIFEST.MF
+.idea
+*.iml
